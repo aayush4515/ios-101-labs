@@ -5,7 +5,7 @@ This repo is where I’m keeping all the labs I work on for CodePath’s iOS-101
 
 ---
 
-### 🚀 Labs so far
+## 🚀 Labs so far
 
 - Lab 01 – MarioKart
 First taste of Swift + Xcode + iOS Simulator. 🏎️💨
@@ -15,7 +15,7 @@ _(More labs will roll in as I level up!)_
 
 ---
 
-### 🎯 What I’m aiming for
+## 🎯 What I’m aiming for
 
 - Get comfy writing Swift and building iOS apps
 - Make fun + useful apps from scratch
@@ -23,6 +23,6 @@ _(More labs will roll in as I level up!)_
 
 ---
 
-### 🙌 Shoutout
+## 🙌 Shoutout
 
 Big thanks to CodePath for putting together such an awesome intro course. 🚀
