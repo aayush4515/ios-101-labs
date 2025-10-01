@@ -1,4 +1,4 @@
-##📱 IOS-101 Labs
+## 📱 IOS-101 Labs
 
 Welcome to my iOS playground! 🎉
 This repo is where I’m keeping all the labs I work on for CodePath’s iOS-101 course. Think of it as my training ground for becoming an iOS dev.
@@ -11,7 +11,7 @@ This repo is where I’m keeping all the labs I work on for CodePath’s iOS-101
 First taste of Swift + Xcode + iOS Simulator. 🏎️💨
 I tinkered with some starter code, added features, and got a simple animated game running.
 
-__(More labs will roll in as I level up!)__
+_(More labs will roll in as I level up!)_
 
 ---
 
