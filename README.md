@@ -1,4 +1,4 @@
-## 📱 IOS-101 Labs
+# 📱 IOS-101 Labs
 
 Welcome to my iOS playground! 🎉
 This repo is where I’m keeping all the labs I work on for CodePath’s iOS-101 course. Think of it as my training ground for becoming an iOS dev.
